@@ -20,6 +20,7 @@ The bulk of data used for this project was retrieved from County Health Rankings
 - https://www.countyhealthrankings.org/
 - https://developers.google.com/maps/apis-by-platform
 - https://apidocs.covidactnow.org/
+- https://covidactnow.org/
 
 
 ## Data Exploration & Cleanup
