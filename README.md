@@ -42,6 +42,8 @@ Our dataset contained mostly raw numbers such as the total number of primary car
 ## Result of Analysis 
 We created a box plot to demonstrate the average life expectancy measured in years in the southern US by state. Texas ranked in the top 5 when comparing life expectancy across the southern states. Presidio County (TX) had the highest life expectancy across all southern counties at 88.80 years. Though we did determine that it was an outlier primarily based on its low population of 6,704 residents in the county and only having 2 primary care physicians in the entire county. 
 
+![Southern_States](https://github.com/ToniEdwards/Project1/blob/main/Images/Life%20Expectancy%20Southern%20States.PNG?raw=true)
+
 Virginia had 4 counties ranked in the top 10 for highest life expectancy; 3 were outliers:
 -	Manassas Park City – 86.49 (outlier)
 -	Arlington – 85.92 (outlier)
@@ -60,11 +62,19 @@ Florida had 2 counties ranked in the top 10 for highest life expectancy, 1 was a
 Maryland had 1 county ranked in the top 10 for highest life expectancy which was also an outlier:
 -	Montgomery – 84.60 (outlier)
 
-
+## Charting our Analysis 
 We created scatter plots with linear regression lines to analyze bivariate data so that we could determine the correlation between each health factor and life expectancy in Texas. Higher income was associated with greater longevity. Life expectancy increased as access to food increased. The percentage of primary care physicians in a county per 100,000 residents increased as life expectancy increased. The percentage of unemployed people and the percentage of residents in a county with a high school diploma had minimal effects on a county’s life expectancy. 
 
-W used a bar graph to compare the result between top 5 counties and bottom 5 counties in Texas by health factor to further illustrate some of the correlations that we previously analyzed.
+![Scatter](https://github.com/ToniEdwards/Project1/blob/main/Images/ScatterPlots2.PNG?raw=true)
 
+We used a bar graph to compare the result between top 5 counties and bottom 5 counties in Texas by health factor to further illustrate some of the correlations that we previously analyzed.
+
+![Bar](https://github.com/ToniEdwards/Project1/blob/main/Images/BarPlots.PNG?raw=true)
+
+## Covid-19 Impacts on Life Expectancy
+We gathered additional data from CovidActNow.org to understand the Covid-19 impacts on the counties in our research. We determined that Covid-19 has impacted both the top  five healthest counties as well as the bottom five healthiest counties. One observation is that the Top five healthiest counties have higher vaccination rates than the bottom five counties. According to the CDC a population with higher vaccination rates could see increases in life expectancy as it relates to the impactes of Covid-19.
+
+![Bar](https://github.com/ToniEdwards/Project1/blob/main/Images/Covid%20Impact.png?raw=true)
 
 ## Conclusion
 We expected to find a direct correlation between health and socioeconomic factors and their impact on a county’s life expectancy. The factors that we analyzed displayed both positive and negative correlations to life expectancy. Average household income, food insecurity and percentage of primary care physicians had the greatest impact on life expectancy. 
@@ -75,3 +85,16 @@ We determined that the top 5 healthiest counties in Texas with a population of 1
 -	Williamson – 82.10 years
 -	Denton – 82.01 years
 -	Travis – 80.69 years
+
+![Top_Five](https://github.com/ToniEdwards/Project1/blob/main/Images/Top5HealthiestCounties.png?raw=true)
+
+
+We determined that the bottom 5 healthiest counties in Texas with a population of 10,000+ residents are:
+- Anderson - 73.30 years
+- Polk - 73.70 years
+- Potter - 73.77 years
+- Trinity - 73.99 years
+- Liberty - 74.05 years
+
+![Bottom_Five](https://github.com/ToniEdwards/Project1/blob/main/Images/Bottom5LeastHealthiestCounties%20(1).png?raw=true)
+
